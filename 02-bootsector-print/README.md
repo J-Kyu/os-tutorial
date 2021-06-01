@@ -43,6 +43,7 @@ dw 0xaa55
 ```
 
 You can examine the binary data with `xxd file.bin`
+> Try this! It will show binary form of file.
 
 Anyway, you know the drill:
 
