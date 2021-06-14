@@ -1,4 +1,9 @@
+### :smile: if you have encounter error whil calling ``make``, install ``libncurses5-dev``. 
+> Not sure exact reason for occuring the error but it seems like it is  problem of texinfo
+
+
 *Concepts you may want to Google beforehand: monolithic kernel, microkernel, debugger, gdb*
+
 
 **Goal: Pause and organize our code a little bit. Then learn how to debug the kernel with gdb**
 
