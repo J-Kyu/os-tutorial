@@ -1,4 +1,20 @@
-*Concepts you may want to Google beforehand: I/O ports*
+### :smile: To test given code, follow below
+
+1. run ``make debug``
+
+2. breakpoint kernel.c:21 ``b kernel.c:21``
+
+3. ``contiue``
+
+4. ``print position``
+
+5. ``print offset_from_vga``
+
+6. From now on, run ``next`` to see, what prints on "QEMU" screen while comparing with lines that is been excuted.
+
+
+
+Concepts you may want to Google beforehand: I/O ports*
 
 **Goal: Learn how to use the VGA card data ports**
 
